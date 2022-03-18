@@ -1,0 +1,83 @@
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.exe.config
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.exe
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.pdb
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csprojAssemblyReference.cache
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Form1.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Properties.Resources.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.GenerateResource.cache
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.CoreCompileInputs.cache
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.exe
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.pdb
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Manage_Books.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Dashboard.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.CopyComplete
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Manage_Students.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Borrow_Books.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Book_Details.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Borrower_Details.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Return_Books.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Pay_Penalty.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Settings.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Catalog.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Login.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\stdole.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Report_Viewer.resources
+C:\Users\63966\source\repos\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Report_Viewer2.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\unsorted\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.exe
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\unsorted\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.pdb
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.exe.config
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.exe
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\FinalDisposable.pdb
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\stdole.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csprojAssemblyReference.cache
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Book_Details.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Borrower_Details.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Borrow_Books.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Catalog.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Dashboard.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Form1.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Login.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Manage_Books.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Manage_Students.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Pay_Penalty.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Properties.Resources.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Report_Viewer.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Report_Viewer2.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Return_Books.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.Settings.resources
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.GenerateResource.cache
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.CoreCompileInputs.cache
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.csproj.CopyComplete
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.exe
+C:\Users\zye\Desktop\archives\Modern Alchemy\incantations (previous) (merge with repository)\library management system\FinalDisposable\FinalDisposable\obj\Debug\FinalDisposable.pdb
